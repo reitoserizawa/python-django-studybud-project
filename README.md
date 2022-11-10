@@ -3,6 +3,17 @@
 </p>
 <img width="1271" alt="Screen Shot 2022-11-10 at 1 40 10 PM" src="https://user-images.githubusercontent.com/100802000/201179714-f6d17d91-4b95-4aa8-a527-d0833f73e4b0.png">
 
+<h2>Demo</h2>
+
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+<p>https://youtu.be/e_fCTxD2i-c</p>
+
+
+https://user-images.githubusercontent.com/100802000/201224771-e3c800d9-6ad2-41ca-ad74-5dad761d285b.mov
+
+
+
+
 <h2>Utilized Technologies</h2>
 <p>Language:</p>
 
@@ -30,9 +41,3 @@ python3 manage.py migrate
 ```
 python3 manage.py runserver
 ```
-
-<h2>Reference</h2>
-
-Dennis Ivy:+1: https://github.com/divanov11
-
-<p>YouTube:+1: https://www.youtube.com/watch?v=PtQiiknWUcI&t=9323s</p>
