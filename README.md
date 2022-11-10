@@ -30,3 +30,9 @@ python3 manage.py migrate
 ```
 python3 manage.py runserver
 ```
+
+<h2>Reference</h2>
+
+Dennis Ivy:+1: https://github.com/divanov11
+
+<p>YouTube:+1: https://www.youtube.com/watch?v=PtQiiknWUcI&t=9323s</p>
